@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Aaditya-Nandeshwar/Aaditya-Nandeshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Aaditya-Nandeshwar/Aaditya-Nandeshwar**
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaditya-nandeshwar/)
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **I am a Electronics engineer loving software stuff**
--->
