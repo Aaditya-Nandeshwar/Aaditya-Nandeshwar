@@ -14,7 +14,7 @@ Here are some info about me to get you started:
 
 <a href="https://www.linkedin.com/in/aaditya-nandeshwar/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
-
+### 📈 GitHub Stats 
 
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditya-Nandeshwar&show_icons=true&theme=radical&count_private=true)
 
