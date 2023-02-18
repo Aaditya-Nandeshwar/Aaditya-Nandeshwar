@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**Welcome to my profile**
+**Welcome to my profile 🤗**
 
-**My self Aaditya Nandeshwar**
+My self **Aaditya Nandeshwar**,
 
 Here are some info about me to get you started:
 
