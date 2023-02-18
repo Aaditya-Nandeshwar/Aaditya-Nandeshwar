@@ -15,3 +15,6 @@ Here are some info about me to get you started:
 - ⚡ Fun fact: **I am a electronics engineer loving software stuff!!**
 
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditya-Nandeshwar&show_icons=true&theme=radical&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Nandeshwar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
