@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**Welcome to my profile**
+
 **My self Aaditya Nandeshwar**
 
 Here are some info about me to get you started:
@@ -12,4 +14,4 @@ Here are some info about me to get you started:
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **I am a electronics engineer loving software stuff!!**
 
-![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditya-Nandeshwar&show_icons=true&theme=radical)
+![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditya-Nandeshwar&show_icons=true&theme=radical&count_private=true)
