@@ -1,4 +1,4 @@
-### Hi there, I am Aaditya Nandeshwar👋 Welcome to my profile!!!
+### Hi there, I am Aaditya Nandeshwar👋. Welcome to my profile!!!
 
 
 Here are some info about me to get you started:
