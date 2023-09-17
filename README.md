@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-  Hi there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -25,11 +25,11 @@
 Myself **Aaditya Nandeshwar** a DevOps Engineer from India.
 
 - 🔭 I’m currently working on **DevOps & Cloud platforms like AWS, AZURE & GCP.**
-- 🌱 Exploring **Multi Cloud Secuirty & Database Management**
+- 🌱 Exploring **Multi-Cloud Security & Database Management**
 - 👯 I’m looking to collaborate on **Open-Source python projects**
 - 💬 Ask me about **Kubernetes, DevOps, CICD, Terraform, Ansible, etc.**
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: **I am a electronics engineer loving software stuff!!**
+- ⚡ Fun fact: **I am an electronics engineer who loves software stuff!!**
 
 
 ---
